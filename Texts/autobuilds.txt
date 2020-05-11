@@ -1,22 +1,11 @@
 id="plugin.program.shoretechwizard"  <<Matching Folder and Addon.xml
-version="1.0 Version Matches Addon.xml"
-zip="https://github.com/shoretechrepairs/ShoreTechRepairs.github.io/blob/master/zips/plugin.program.shoretechwizard/plugin.program.shoretechwizard-1.0.zip"
+version="1.0"
+zip=""
 
 This is the preferred method for setting up the wizard if not usig Repository.     ^^^If using Repository the Top 3 lines section csn be Deleted.
 Use the autobuilds.txt as combined Builds TXT and Wizard Update TXT                <<<Delete Lines 5,6,7 and any Builds List not needed and filled out.
 Put this link in 2 places in the Wizard, Build File and Wizard File
 
-name="Shore Tech Repair Wizard May 10,2020"
-version="1.0"
-url="https://github.com/shoretechrepairs/ShoreTechRepairs.github.io/blob/master/zips/plugin.program.shoretechwizard/plugin.program.shoretechwizard-1.0.zip"
-gui="http://"
-kodi="17.6"
-theme="http://"
-icon="https://github.com/shoretechrepairs/ShoreTechRepairs.github.io/blob/master/plugin.program.shoretechwizard/icon.png"
-fanart="https://github.com/shoretechrepairs/ShoreTechRepairs.github.io/blob/master/plugin.program.shoretechwizard/fanart.png"
-preview="http://"
-adult="No"
-description="Shore Tech Repair Wizard"
 
 
 
