@@ -1,24 +1,105 @@
-
-name="Kodi 15.2"
+name="Opened Shore Tech Repairs Store facebook.com/ShoreTechRepairs Kings Village Plaza"
 section="no"
-url="https://archive.org/details/kodi-15.2-Isengard-armeabi-v7a_201606"
-icon="http://"
-fanart="http://"
-adult="No"
-description="Old Version of Kodi"
-
-name="Name of the APK"
-section="no"
-url="http:// Link to your APK"
-icon="http:// Link to your Icon"
+url="https://archive.org/download/bee_20200302/bee.apk"
+icon="https://shoretechrepairs.000webhostapp.com/Images/shoretech.png"
 fanart="http:// Link to your Fanart"
 adult="No"
 description="What ever you want to type in here"
 
-name="Name of Section 1 if using sections"
-section="yes"
-url="http:// Link to your apk-section1.txt"
-icon="http:// Link to your Icon"
+name="BeeTV 2.4.4 April 26, 2020 Movies & TV"
+section="no"
+url="https://archive.org/download/viva118/bee244.apk"
+icon="https://shoretechrepairs.000webhostapp.com/Images/BeeTV%20Apk.png"
 fanart="http:// Link to your Fanart"
 adult="No"
 description="What ever you want to type in here"
+
+name="VivaTv 1.1.8 April 26, 2020 Movies & TV"
+section="no"
+url="https://archive.org/download/viva118/viva118.apk"
+icon="https://shoretechrepairs.000webhostapp.com/Images/viva-tv.png"
+fanart="http:// Link to your Fanart"
+adult="No"
+description="What ever you want to type in here"
+
+name="NovaTV April 26, 2020 Movies & TV"
+section="no"
+url="https://archive.org/download/viva118/nov118.apk"
+icon="https://shoretechrepairs.000webhostapp.com/Images/novatv.jpg"
+fanart="http:// Link to your Fanart"
+adult="No"
+description="What ever you want to type in here"
+
+name="TyphoonTV 2.2.6 April 26, 2020 Movies & TV"
+section="no"
+url="https://archive.org/download/viva118/typhoon226.apk"
+icon="https://shoretechrepairs.000webhostapp.com/Images/typhoon-tv-jul.png"
+fanart="http:// Link to your Fanart"
+adult="No"
+description="What ever you want to type in here"
+
+name="CatMouse 2.3 February 23, 2020 Movies & TV"
+section="no"
+url="https://archive.org/download/catmous23/catmous23.apk"
+icon="https://shoretechrepairs.000webhostapp.com/Images/catmouse.jpg"
+fanart="http:// Link to your Fanart"
+adult="No"
+description="What ever you want to type in here"
+
+name="UnlockMyTV January 16, 2020 Movies & TV (Looks Like Terrarium)"
+section="no"
+url="https://archive.org/download/tcx_20200116/tcx.apk"
+icon="https://shoretechrepairs.000webhostapp.com/Images/unlockterrarium.jpg"
+fanart="http:// Link to your Fanart"
+adult="No"
+description="What ever you want to type in here"
+
+name="Mobdro 2.1.68 Live TV March 16, 2019 ADFree"
+section="no"
+url="https://archive.org/download/mobdro_20200316/mobdro.apk"
+icon="https://shoretechrepairs.000webhostapp.com/Images/mobdro.png"
+fanart="http:// Link to your Fanart"
+adult="No"
+description="What ever you want to type in here"
+
+name="Blokada - Ad Blocker 4.2 - September 9, 2019"
+section="no"
+url="https://archive.org/download/sptfyaugust9/blok414.apk"
+icon="https://shoretechrepairs.000webhostapp.com/Images/blokada.png"
+fanart="http:// Link to your Fanart"
+adult="No"
+description="What ever you want to type in here"
+
+name="MxPlayer Pro Video Player January 22, 2020"
+section="no"
+url="https://archive.org/download/mx647/mx647.apk"
+icon="https://shoretechrepairs.000webhostapp.com/Images/mx.png"
+fanart="http:// Link to your Fanart"
+adult="No"
+description="What ever you want to type in here"
+
+name="Mouse Toggle - Hit Play twice on remote for mouse to appear November 3, 2018"
+section="no"
+url="https://archive.org/download/mtoggle_201811/mtoggle.apk"
+icon="https://shoretechrepairs.000webhostapp.com/Images/mousetoggle.jpg"
+fanart="http:// Link to your Fanart"
+adult="No"
+description="What ever you want to type in here"
+
+name="Set Orientation 1.1.4 Fix Orientation on Apps Pick Automatic January 10, 2019"
+section="no"
+url="https://archive.org/download/orientatt114/orientatt114.apk"
+icon="https://shoretechrepairs.000webhostapp.com/Images/setorientation.jpg"
+fanart="http:// Link to your Fanart"
+adult="No"
+description="What ever you want to type in here"
+
+
+
+
+
+
+
+
+
+
