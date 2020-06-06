@@ -78,6 +78,30 @@ fanart="http:// Link to your Fanart"
 adult="No"
 description="What ever you want to type in here"
 
+name="Apps Below Are For Android Phones Only"
+section="no"
+url="https://archive.org/download/orientatt114/orientatt114.apk"
+icon=""
+fanart="http:// Link to your Fanart"
+adult="No"
+description="What ever you want to type in here"
+
+name="Spotify June 5,2020 Free Premmium Android Only"
+section="no"
+url="https://archive.org/download/sptfy65/sptfy65.apk"
+icon="https://github.com/shoretechrepairs/ShoreTechRepairs/blob/master/Images/spotify.png"
+fanart="http:// Link to your Fanart"
+adult="No"
+description="What ever you want to type in here"
+
+name="Deezer Music June 5, 2020 Free Premium Android Only"
+section="no"
+url="https://archive.org/download/sptfy65/deez65.apk"
+icon="https://github.com/shoretechrepairs/ShoreTechRepairs/blob/master/Images/deezer-logo-square.jpg"
+fanart="http:// Link to your Fanart"
+adult="No"
+description="What ever you want to type in here"
+
 
 
 
