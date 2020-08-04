@@ -22,9 +22,9 @@ fanart="http:// Link to your Fanart"
 adult="No"
 description="What ever you want to type in here
 
-name="VivaTv 1.2.2 August 1, 2020 Movies & TV"
+name="ZiniTevi 1.2.6 Auguat 1, 2020 Movies & TV"
 section="no"
-url="https://archive.org/download/viva122/viva122.apk"
+url="https://archive.org/download/zini126/zini126.apk"
 icon="https://shoretechrepairs.000webhostapp.com/Images/ziniTv.png"
 fanart="http:// Link to your Fanart"
 adult="No"
