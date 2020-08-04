@@ -22,11 +22,10 @@ fanart="http:// Link to your Fanart"
 adult="No"
 description="What ever you want to type in here
 
-
-name="ZiniTevi 1.2.6 Auguat 1, 2020 Movies & TV"
+name="Name of the APK"
 section="no"
-url="https://archive.org/download/zini126/zini126.apk"
-icon="https://shoretechrepairs.000webhostapp.com/Images/ziniTv.png"
+url="http:// Link to your APK"
+icon="http:// Link to your Icon"
 fanart="http:// Link to your Fanart"
 adult="No"
 description="What ever you want to type in here"
