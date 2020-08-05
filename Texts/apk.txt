@@ -32,7 +32,7 @@ description="What ever you want to type in here"
 
 name="Typhoon August 1, 2020 Movies & TV"
 section="no"
-url="https://archive.org/download/zini126/zini126.apk"
+url="https://archive.org/download/app-release-1_202008/app-release%20%281%29.apk"
 icon="https://shoretechrepairs.000webhostapp.com/Images/typhoon-tv-jul.png"
 fanart="http:// Link to your Fanart"
 adult="No"
