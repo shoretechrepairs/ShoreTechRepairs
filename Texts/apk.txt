@@ -6,7 +6,7 @@ fanart="http:// Link to your Fanart"
 adult="No"
 description="What ever you want to type in here"
 
-name="CinemaHD 2.2.3 August 19, 2020 Movies & TV May Have Ads"
+name="CinemaHD 2.2.3 August 19, 2020 Movies & TV"
 section="no"
 url="https://archive.org/download/cinema_202008/cinema.apk"
 icon="https://shoretechrepairs.000webhostapp.com/Images/cinema.png"
