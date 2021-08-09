@@ -16,7 +16,7 @@ description="What ever you want to type in here"
 
 name="BeeTV 2.8.7 August 9, 2021 Movies & TV"
 section="no"
-url="https://archive.org/download/bee286/bee286.apk"
+url="https://archive.org/download/beeer/beeer.apk"
 icon="https://shoretechrepairs.000webhostapp.com/Images/BeeTV%20Apk.png"
 fanart="http:// Link to your Fanart"
 adult="No"
