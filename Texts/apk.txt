@@ -15,6 +15,7 @@ adult="No"
 description="What ever you want to type in here"
 
 name="BeeTV 3.4.9 April 21, 2022 Movies & TV"
+section="no"
 url="https://shoretech.000webhostapp.com/BeeTV%20Apk.png"
 icon="https://shoretech.000webhostapp.com/unnamed.png"
 fanart="http:// Link to your Fanart"
