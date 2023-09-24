@@ -14,7 +14,7 @@ fanart="http:// Link to your Fanart"
 adult="No"
 description="What ever you want to type in here"
 
-name="CinemaHD 2.6.0 September 13, 2023 Movies & TV"
+name="CinemaHD Movies & TV"
 section="no"
 url="https://cinemahdapkapp.com/cinema-2.6.0.apk"
 icon="https://shoretech.000webhostapp.com/cinema.png"
